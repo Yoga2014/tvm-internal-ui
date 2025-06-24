@@ -211,8 +211,7 @@ onDateChange() {
   console.log('Date selected:', this.selectedDate);
   // You can do additional logic here if needed
 }
-
-  
+ 
   toggleDatePicker(): void {
     // Implement date picker toggle
     console.log('Toggling date picker');
