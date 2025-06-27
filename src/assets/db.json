@@ -5,7 +5,24 @@
       "project": "Project1",
       "totalHours": "40",
       "description": "Completed feature development and testing.",
-      "weekendDate": "2025-06-06"
+      "weekendDate": "2025-06-06",
+      "id": "53a6"
+    },
+    {
+      "id": "3500",
+      "employeeName": "John Doe",
+      "project": "Project Beta",
+      "hours": {
+        "Monday": "8",
+        "Tuesday": "8",
+        "Wednesday": "8",
+        "Thursday": "8",
+        "Friday": "8"
+      },
+      "totalHours": "40",
+      "description": "uytd",
+      "weekendDate": "2025-06-22",
+      "wfol": false
     }
   ]
 }
